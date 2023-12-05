@@ -1,0 +1,15 @@
+body{
+    background-color: red;
+}
+h1{
+    text-align: center;
+    color: orange;
+}
+@media screen and (max-widht: 720px){
+    body{
+        background-color: gold;
+    }
+    h1{
+        color: silver;
+    }
+}
